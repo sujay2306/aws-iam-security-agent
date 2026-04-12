@@ -32,18 +32,19 @@ The agent figures out which AWS API calls to make, executes them in real time, a
 
 ## Installation
 
-### Via Homebrew
+### Via pip
+
+```bash
+pip install aws-iam-agent
+```
+
+### Via Homebrew (some issues, in progress)
 
 ```bash
 brew tap sujay2306/aws-iam-agent
 brew install iamscout
 ```
 
-### Via pip
-
-```bash
-pip install aws-iam-agent
-```
 
 ## Setup
 
