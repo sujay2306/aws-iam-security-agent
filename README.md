@@ -32,7 +32,7 @@ pip3 install aws-iam-agent
 ```
 
 
-### Via Homebrew (some issues, in progress)
+### Via Homebrew (some users are facing issues, actively working on it)
 
 ```bash
 brew tap sujay2306/aws-iam-agent
