@@ -36,7 +36,7 @@ pip3 install aws-iam-agent
 
 ```bash
 brew tap sujay2306/aws-iam-agent
-brew install aws-iam-agent
+brew install sujay2306/aws-iam-agent/aws-iam-agent
 ```
 
 
